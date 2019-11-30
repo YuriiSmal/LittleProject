@@ -29,6 +29,6 @@ _3. Press on Play button_
 
 **7. After finish you can open created screens in folder `Screens`**
 
-_**Thanks for your attention!. Have a nice day!**_
+_**Thanks for your attention! Have a nice day!**_
 
 
